@@ -1,0 +1,20 @@
+
+
+body {
+    background-color: blue;
+    height: 110vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.btn {
+    background-color: NavajoWhite;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 50px;
+    flex: 0.5;
+    cursor: pointer;
+}
