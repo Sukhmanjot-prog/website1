@@ -4,7 +4,7 @@ window.addEventListener('scroll', fixNav)
 
 function fixNav() {
     console.log(window.scrollY)
-    if (window.scroll > 223) {
+    if (window.scroll > 240) {
         nav.classList.add('active')
     } else {
         nav.classList.remove('active')
