@@ -16,13 +16,13 @@ margin: 0;
 }
 
 nav {
-    background-color: var(--primary);
+    background-color: var(--primary-color);
     position: fixed;
     top: 0;
     left: 0;
     width: 200px;
     height: 100%;
-    border-right: 2pz;
+    border-right: 2px solid rbga(200,200,200);
 }
 
 
