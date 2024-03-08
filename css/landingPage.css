@@ -65,7 +65,7 @@ nav ul li:nth-of-type(1) {
 }
 
 header {
-    background-color: var(--primary--color);
+    background-color: var(--primary-color);
     color: white;
     font-size: 130%;
     position: relative;
@@ -81,4 +81,7 @@ header p {
     margin: 30px 0;
 }
 
-button
+button {
+    background-color: var(--secondary-color);
+
+}
