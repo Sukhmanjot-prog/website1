@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 * {
     box-sizing: border;
@@ -13,6 +13,7 @@ body {
 
 h1 {
     text-align: center;
+    font-family: "VT323", monospace;
 }
 
 container {
