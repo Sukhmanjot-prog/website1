@@ -21,14 +21,14 @@ h1 {
 }
 
 .container {
-    height: 200px;
+    height: 730px;
     position: relative;
-    border: 3px solid green;
+    border: 3px solid black;
   }
 
   .vertical-center {
     margin: 0;
-    position: relative;
+    position: absolute;
     top: 50%;
     -ms-transform: translateY(-100%);
     transform: translateY(-50%);
