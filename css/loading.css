@@ -16,10 +16,9 @@ body {
     opacity: 1;
 }
 
-.btn {
-    position: relative;
-    bottom: 320px;
-    right: 800px;
+.href {
+    right: 320px;
+    bottom: 500px;
 }
 
 .bg {
