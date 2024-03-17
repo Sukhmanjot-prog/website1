@@ -16,6 +16,16 @@ h1 {
     font-family: "VT323", monospace;
 }
 
-button {
- justify-content: center;
-}
+.container {
+    height: 725px;
+    position: relative;
+    border: 3px solid green;
+  }
+
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-100%);
+    transform: translateY(-50%);
+  }
