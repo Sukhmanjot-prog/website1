@@ -19,7 +19,7 @@ body {
     border: none;
     flex: 0.5;
     cursor: pointer;
-    font-family: font-family: "VT323", monospace;
+    font-family: "VT323", monospace;
 }
 
 .btn:hover {
