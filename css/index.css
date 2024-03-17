@@ -16,6 +16,10 @@ h1 {
     font-family: "VT323", monospace;
 }
 
+.button {
+    position: absolute;
+}
+
 .container {
     height: 200px;
     position: relative;
@@ -24,7 +28,7 @@ h1 {
 
   .vertical-center {
     margin: 0;
-    position: absolute;
+    position: relative;
     top: 50%;
     -ms-transform: translateY(-100%);
     transform: translateY(-50%);
